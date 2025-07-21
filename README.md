@@ -58,6 +58,7 @@ Access at: http://localhost:5173
 cd backend
 npm install
 npm start
+---
 
 Server runs at: http://localhost:5000
 🔔 Ensure MongoDB connection string is valid in .env
